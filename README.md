@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>GO Quant </>
+<h1>GO Quant </h1>
 
 <br/>
 
