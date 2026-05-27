@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7B731&center=true&vCenter=true&width=700&lines=📈+GoQuant;Fear+%26+Greed+Sentiment+Engine;FinBERT+%2B+Multi-Source+Aggregation;Real-Time+Trading+Signals" alt="GoQuant" />
+<h1>GO Quant </>
 
 <br/>
 
