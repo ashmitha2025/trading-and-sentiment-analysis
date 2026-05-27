@@ -1,0 +1,22 @@
+# GoQuant — Fear & Greed Sentiment Engine
+# Install with: pip install -r requirements.txt
+
+# ── UI & Dashboard ────────────────────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ── NLP / Sentiment ───────────────────────────────────────────────────────────
+transformers>=4.39.0           # FinBERT lives here (ProsusAI/finbert)
+torch>=2.2.0                   # GPU build: pip install torch --index-url https://download.pytorch.org/whl/cu121
+
+# ── Data Ingestion ────────────────────────────────────────────────────────────
+tweepy>=4.14.0                 # Twitter API v2
+praw>=7.7.0                    # Reddit API
+newsapi-python>=0.2.7          # NewsAPI
+yfinance>=0.2.37               # Yahoo Finance OHLCV
+
+# ── Data Processing ───────────────────────────────────────────────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0           # Optional: load .env files automatically
